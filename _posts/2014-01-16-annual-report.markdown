@@ -41,6 +41,7 @@ In addition to this selection of successful campaigns, all of which targeted iss
 In Australia, GetUp!, one of our founding partners, has worked to stop the deportation of same-sex partners–by delivering a petition with over 143,000 signatures to the Immigration Minister–blocked the development of coastal land, and saved a local public school from closure. Additionally, our platform led to a movement of 95,000 people and 16 diverse groups working together to stop the so-called Super Trawler and protect local fisheries.
 
 **Environmental Benefit**
+
 In addition to our work with multi-issue organizations, ChangeSprout’s clients also include organizations whose sole focus is the protection of the environment.
 
 Campaigns.gofossilfree.org, which is powered by ChangeSprout, is pressing for educational institutions, governments, and organizations to divest from fossil fuels. Since beginning their campaign in 2013, nine colleges, 20 religious institutions, and 22 cities have committed to fossil fuel divestment. Furthermore, campaigns to go fossil fuel free have been started at 537 different institutions worldwide.
