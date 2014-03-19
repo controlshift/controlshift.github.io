@@ -56,7 +56,7 @@ While ChangeSprout is proud of its contributions, as a very new organization, we
 
 ## III. PERFORMANCE ASSESSMENT
 The results of ChangeSprout’s B Lab assessment are as follows:
-<table style=400px> <tr> <td> Category</td> <td>Total Points Earned </td> <td>Percent Earned</td></tr>
+<table border="1" style="width:400px"> <tr> <td> Category</td> <td>Total Points Earned </td> <td>Percent Earned</td></tr>
 <tr><td>Governance </td><td>3.6 </td><td>23.9</td></tr>
 <tr><td>Workers </td><td>29.3</td> <td>58.6</td></tr>
 <tr><td>Community</td><td>7.4</td><td>13.5</td>
