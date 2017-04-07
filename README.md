@@ -6,8 +6,11 @@ Builds website for www.changesprout.com using jekyll and github pages.
 
 To develop locally:
 
-`bundle install
-jekyll serve`
+```
+bundle install
+jekyll serve
+```
+browse to http://localhost:4000/ to preview site. Committing changes and pushing to master will update live site. 
 
 ## Updates
 
