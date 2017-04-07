@@ -1,3 +1,4 @@
 name: ChangeSprout Inc.
 markdown: kramdown
 highlighter: rouge
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
