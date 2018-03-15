@@ -3,11 +3,65 @@ layout: default
 title: ChangeSprout
 ---
 
-<div id="home">
-  <h1>News</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<!-- Wrapper -->
+<div id="wrapper">
+
+  <!-- Main -->
+  <div id="main">
+
+      <section id="products" class="main">
+        <div class="spotlight">
+          <div class="content">
+            <header class="major">
+              <h2>Products</h2>
+            </header>
+            <p>We make a few products that are available as a subscription serivce for advocacy organizations.</p>
+            <ul class="actions">
+              <li><a href="http://www.controlshift.com" class="button">ControlShift</a></li>
+              <li><a href="http://www.visitthem.org/" class="button">VisitThem</a></li>
+
+            </ul>
+          </div>
+          <span class="image"><img src="images/pic01.jpg" alt="" /></span>
+        </div>
+      </section>
+
+      <section id="news" class="main special">
+        <header class="major">
+          <h2>News</h2>
+        </header>
+        <div id="news">
+          <ul class="posts">
+            {% for post in site.posts %}
+              <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+
+      <section id="services" class="main special">
+        <header class="major">
+          <h2>Consulting Services</h2>
+          <p>Our team is occasionally available for consulting engagements, with a focus on building ambitious software tools for organizing and activism.</p>
+        </header>
+      
+        <h3>How We Can Help</h3>
+        <div class="how-we-help">
+          <ul>
+            <li><strong>Engineering</strong> We design, build, and maintain complex software with particular expertise in ruby, python and javascript.</li>
+            <li><strong>Operations</strong> Dev ops, infrastructure as code, automation, engineering for scalabiltiy and reliability. Particular expertise with AWS, Terraform and Linux.</li>
+            <li><strong>Analytics</strong> A/B testing, analytics, evaluation of program effectiveness, reporting.</li>
+            <li><strong>Design</strong> We partner with a network of designers and creatives to build extraordinary experiences.</li>
+          </ul>
+        </div> 
+
+
+        <footer class="major">
+          <ul class="actions">
+            <li><a href="mailto:talk@changesprout.com" class="button special">Talk to Us</a></li>
+          </ul>
+        </footer>
+      </section>
+  </div>
 </div>
